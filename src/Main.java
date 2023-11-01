@@ -4,7 +4,8 @@ public class Main {
         Order order = new Order();
         System.out.println(order);
 
-        System.out.println("Hello! ");
-        System.out.println("Update main");
+        System.out.println("Hello!");
+        System.out.println("Hotfix_1");
+        System.out.println("Hotfix_1");
     }
 }
