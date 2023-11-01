@@ -5,7 +5,5 @@ public class Main {
         System.out.println(order);
 
         System.out.println("Hello!");
-        System.out.println("Hotfix_1");
-        System.out.println("Hotfix_1");
     }
 }
