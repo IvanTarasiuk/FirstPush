@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Hello! ");
         //New task
+        System.out.println("Hello!!! ");
     }
 }
